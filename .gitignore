@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .gitsecret/keys/random_seed
+api_key
+pubring.kbx~
